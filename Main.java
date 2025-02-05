@@ -1,22 +1,8 @@
 
+import java.awt.*;
+import java.util.*;
+import javax.swing.*;
 
-import java.awt.CardLayout;
-import java.awt.Color;
-import java.awt.LayoutManager;
-import java.awt.TextField;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import javax.swing.JButton;
-import javax.swing.JCheckBox;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
 
 class Main {
     Main() {
